@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d8212306-d92b-4124-8589-cdd5ed8834b4)
+
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
