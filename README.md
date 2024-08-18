@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 💬 Ask me about **Python3, MERN Stack**
+- 💬 Ask me about **Python3**
 
 - 📫 How to reach me **Krixhnnna@gmail.com**
 
