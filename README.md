@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8212306-d92b-4124-8589-cdd5ed8834b4)
+![ Stats](https://leetcode-status.vercel.app/api/graph/Krixhnnna?theme=dark&hide_title=true&custom_title=)
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
