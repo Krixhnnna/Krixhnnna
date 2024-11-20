@@ -1,4 +1,4 @@
-![ Stats](https://leetcode-status.vercel.app/api/graph/Krixhnnna?theme=dark&hide_title=true&custom_title=)
+![LeetCode Stats](https://leetcode.card.workers.dev/Krixhnnna?theme=auto&font=baloo&extension=null)
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
