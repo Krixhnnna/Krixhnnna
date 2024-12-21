@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/Krixhnnna?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Krixhnnna?theme=dark&font=Poppins&ext=activity)
