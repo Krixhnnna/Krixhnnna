@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Krixhnnna?theme=dark&font=Poppins)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Krixhnnna?theme=catppuccinMocha&font=Poppins)
