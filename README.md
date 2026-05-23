@@ -1,2 +1,2 @@
 
-![](https://komarev.com/ghpvc/?username=your-github-Krixhnnna)
+![](https://komarev.com/ghpvc/?username=Krixhnnna&style=flat-for-the-badge)
